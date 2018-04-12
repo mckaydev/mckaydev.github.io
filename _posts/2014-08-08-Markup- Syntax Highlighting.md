@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Markup: Syntax Highlighting"
-tags: [code]
 ---
 
 From Michael's Rose [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting).
@@ -75,7 +74,7 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
    print_hi('Tom')
    #=> prints 'Hi, Tom' to STDOUT.
    ```
-        
+
 3. Now you can do this.
 
 ### GitHub Gist Embed
@@ -85,4 +84,3 @@ An example of a Gist embed below.
 <script src="https://gist.github.com/mmistakes/77c68fbb07731a456805a7b473f47841.js"></script>
 
 ### Source
-

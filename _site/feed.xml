@@ -5,14 +5,14 @@
         <atom:link href="/mckaydev.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <link>http://localhost:4000/mckaydev.github.io/</link>
         <description></description>
-        <pubDate>Fri, 13 Apr 2018 06:34:13 +0900</pubDate>
+        <pubDate>Fri, 13 Apr 2018 08:38:43 +0900</pubDate>
         
         <item>
             <title>Sample post</title>
             <link>/mckaydev.github.io/2014/11/30/sample-post.html</link>
             <guid isPermaLink="true">/mckaydev.github.io/2014/11/30/sample-post.html</guid>
-            <description>&lt;p&gt;Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 
-Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. 
+            <description>&lt;p&gt;Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor.
+Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur.
 &lt;!--more--&gt;
 Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.&lt;/p&gt;
 
@@ -44,7 +44,6 @@ Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit 
             <link>/mckaydev.github.io/2014/11/29/feature-images.html</link>
             <guid isPermaLink="true">/mckaydev.github.io/2014/11/29/feature-images.html</guid>
             <description>&lt;p&gt;This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.&lt;/p&gt;
-
 </description>
             <pubDate>Sat, 29 Nov 2014 00:00:00 +0900</pubDate>
         </item>
@@ -191,7 +190,6 @@ Syntax highlighting is a feature that displays source code, in different colors 
 &lt;script src=&quot;https://gist.github.com/mmistakes/77c68fbb07731a456805a7b473f47841.js&quot;&gt;&lt;/script&gt;
 
 &lt;h3 id=&quot;source&quot;&gt;Source&lt;/h3&gt;
-
 </description>
             <pubDate>Fri, 08 Aug 2014 00:00:00 +0900</pubDate>
         </item>
