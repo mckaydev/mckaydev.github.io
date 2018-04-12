@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: "/mckaydev.github.io"
 url: "https://sylhare.github.io"
 title: Mckay's Dev Blog # site's title
 description: "A website with Mckay's activity" # used by search engines
@@ -15,14 +15,14 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p> TensorFlow <code>_config.yml</code> <br> Practice </p>
+     <p> TensorFlow  <br> Practice </p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: simi7236@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
@@ -33,7 +33,7 @@ theme_settings:
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin: instagram.com/mckay_lee/ # Full URL
   pinterest:
   reddit:
   soundcloud:
