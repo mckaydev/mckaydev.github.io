@@ -1,5 +1,6 @@
 # SITE CONFIGURATION
-
+baseurl: "Mckay"
+url: "https://mckaydev.github.io"
 
 title: Mckay's Dev Blog # site's title
 description: "A website with Mckay's activity" # used by search engines
@@ -31,7 +32,7 @@ theme_settings:
   gitlab:
   github: mckaydev
   google_plus:
-  instagram: instagram.com/mckay_lee/
+  instagram: mckay_lee/
   keybase:
   linkedin:  # Full URL
   pinterest:
