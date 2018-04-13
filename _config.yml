@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/mckaydev.github.io"
-url: "https://sylhare.github.io"
+
+
 title: Mckay's Dev Blog # site's title
 description: "A website with Mckay's activity" # used by search engines
 
