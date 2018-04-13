@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "Mckay"
+baseurl: "/mckaydev.github.io"
 url: "https://mckaydev.github.io"
 
 title: Mckay's Dev Blog # site's title
