@@ -1,0 +1,4 @@
+$jekyll serve
+$git add .
+$git commit -m "템플릿 적용"
+$git push origin master
